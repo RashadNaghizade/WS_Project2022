@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ################################################################
 # imports
 from importlib.resources import path
@@ -88,3 +89,6 @@ dataset.to_csv('dataset_anime.csv')
 
 
 driver.quit()
+=======
+
+>>>>>>> bfd0ade6b0ca72a9b2de77882b6a3d851b4b1ba5
