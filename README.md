@@ -5,5 +5,5 @@ For BS, open py file in Visual Studio and run.
 For Scrapy, create new Scrapy project and copy paste spiders.run spiders as this order:
 link_lists
 links
-anime 
+anime. 
 For Selenium, open py file and run.
